@@ -29,7 +29,8 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ghtk.iGHTK</string>
+				<string>GHTK.EcomShopPro.TestPharmacity
+</string>
 				<key>bundle-version</key>
 				<string>3.3.25</string>
 				<key>kind</key>
